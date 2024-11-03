@@ -45,6 +45,7 @@ Contains utility functions for preprocessing tweets, including cleaning text, to
 ***Train_Model.py***:
 
 Responsible for training the sentiment analysis model using a dataset of tweets. It handles the transformation of text data into TF-IDF features and saves both the trained model and vectorizer for later use.
+(***TF-IDF***:tfidf_vectorizer.pkl ***with pkl format***, ***Trained model***:Trained_model.keras ***with keras format***
 
 ***prediction.py***:
 
